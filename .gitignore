@@ -14,8 +14,4 @@ ClearVolume.exe.jar
 log.txt
 clearvolume.iml
 src/cpp/jars/*
-gradle/bintrayUpload.gradle
-gradle/installGitHooks
-gradle/spotless.gradle
-master.gradle
 codeformat.eclipse.xml
