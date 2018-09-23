@@ -15,3 +15,4 @@ log.txt
 clearvolume.iml
 src/cpp/jars/*
 codeformat.eclipse.xml
+out
